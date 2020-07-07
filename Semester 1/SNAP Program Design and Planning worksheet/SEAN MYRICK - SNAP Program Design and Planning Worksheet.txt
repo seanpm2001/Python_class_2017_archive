@@ -1,0 +1,24 @@
+﻿SNAP Program Design and Planning Worksheet
+This worksheet will you help you organize your thoughts and design your programs before you start coding.  Fill one out for each program you write from now on.
+Student name: 
+	
+
+	Lab name and number:
+	
+
+	Problem: In your own words, describe the problem you’re trying to solve or the task you’re trying to accomplish.
+	
+
+	Sprites: List the sprites that you’ll need in your program.  Give each sprite a name and a brief description of what its job will be.
+	
+
+	Scripts: Briefly describe all the scripts you’ll need to write to solve the problem.   Identify which sprite will need to execute each script and what the trigger for each script should be.
+	
+
+	Algorithms: For each script, give a brief outline of the algorithm for that script.  Don’t write code yet—just list the steps the script will need to take.
+	
+
+	Special Blocks: Identify any new or unusual blocks you’ll need for any of your scripts.  List those blocks and describe how they work and why you need them.
+	
+
+	URL: When you are finished, share your SNAP project and enter the URL below.
