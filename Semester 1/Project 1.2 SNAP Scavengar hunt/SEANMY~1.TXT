@@ -1,0 +1,155 @@
+﻿SNAP! Scavenger Hunt
+In this lab, you will explore the functionality of some common blocks and where they are located in the palette.
+1. Locating common blocks
+1.1) Fill in the name of the category to which each block belongs in the chart below. The first one is already filled in for example.
+Block
+	Category
+	Block
+	Category
+	a.   
+	
+
+Motion
+	g.   
+	pen
+	b.   
+	looks
+	h.   
+	looks
+	c.   
+	sound 
+	i.   
+	motion
+	d.   
+	pen
+	j.   
+	looks
+	e.   
+	motion
+	k.   
+	sound
+	f.   
+	control
+	l.   
+	motion
+	
+
+1. What does it do?
+2.1) Describe the function of each block in the chart below. If the block accepts arguments (contains values that you can change), be sure to test out a few different ones to make sure you fully understand what those values mean. The first one is already filled in for example.
+Block
+	Function
+	a.   
+	Changes the direction that the sprite is facing. The argument indicates the number of degrees the sprite turns clockwise from pointing upwards. When the argument is "90", the sprite points right, and so on.
+	b.   
+	speaks a dialog that you put into it for a specified set amount of time, then goes and does another script.
+
+
+
+
+
+
+	c.   
+	plays note 60 for half a second.
+
+
+
+
+
+
+
+
+	d.   
+	
+
+sets the pen draw color to the specified color. when the pen is down, it will draw in this color.
+
+
+
+
+	e.   
+	
+
+glides the sprite from a location to another set location in a set amount of time.
+
+
+
+
+	f.   
+	
+
+repeats the code inside of it 10 times.
+
+
+
+
+	g.   
+	
+
+makes the pen size 1 point bigger, causing thicker drawing lines.
+
+
+
+
+	h.   
+	
+
+
+
+the ghost effect block makes sprite transparent to a set variable.
+
+
+	i.   
+	
+
+
+
+make the sprite go to a set location.
+
+
+	j.   
+	
+
+sets the size of sprite to a specified size that you set it to.
+
+
+
+
+	k.   
+	
+
+stops playing a sound for .2 seconds.
+
+
+
+
+	l.   
+	
+
+points the sprite toward a selected target (default in this picture is a mouse pointer) this will rotate the sprite. 
+
+
+
+
+	
+
+2.2) At this point, you may be noticing some patterns. Use what you’ve learned from exploring these blocks to answer the questions below about each block category.
+a. What do the blocks in the Motion category do? 
+move the sprite around in different ways
+________________________________________________________________________
+b. What do the blocks in the Looks category do? 
+change the appearance of the sprite/background
+________________________________________________________________________
+c. What do the blocks in the Sound category do? 
+play the specified audio for a set amount of time
+________________________________________________________________________
+d. What do the blocks in the Pen category do? 
+tools for you to draw with
+________________________________________________________________________
+1. Put it all together
+You are now going to use some of the blocks you’ve explored to create, save, and submit a Snap! program.
+3.1) Create a script that plays 4 different notes with at least 2 rests in between.
+3.2) Use the repeat block to play your song on loop
+3.3) Create a script that initializes the sprite at position (-20, 10). Then, have the sprite draw a shape that has at least 2 different colors and 2 different line thicknesses. An example would be a square that has 2 thin red sides, and 2 thick blue sides.
+3.4) When you’ve completed all of the scripts above, save your file, share it, and then copy the unique URL below. Be sure to share and publish your file before pasting the URL.
+
+File URL: ____________________________________________________________________________
