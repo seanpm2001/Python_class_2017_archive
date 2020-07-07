@@ -1,0 +1,58 @@
+﻿2.1 Loops 
+Section 1 --Revisit basic loop
+1.  What is a Loop?
+2. What are the different Loop blocks in Snap and how have you used them?
+
+
+Section 2--Loops-Explain what you see and think
+Go to this starter project, run the code and test it, then answer these questions in a discussion comment below.
+1. What is the forever block, and why is it important for this code? 
+To repeat the command so it can be read over and over for key press detection
+1. What happens if you take it out temporarily, reattach the rest of the code to the "When Green Flag clicked" block, and run/test the code?
+The keys wont work because the default key detection with no “ask” block results in the script running for the slowest amount of time during startup, preventing you from doing the key detection unless you hold down the designated key during startup
+1. What does "point direction 90" do to the sprite?
+Rotates the sprite exactly 90 degrees
+1. What would happen if you decrease or increase the # of steps?
+It would change the size of the angles and perimeter of the shape
+1. Add code so that if the user presses the left arrow key, the sprite faces the left direction and moves a few steps in that direction. Test to make sure that this works and also that right arrow key still works.
+Okay 
+
+
+Section 3--Squares/Triangles/Stars, Oh, My! Redux
+1. Open your solution to the original "Squares and Triangles and Stars, Oh My!" activity. Go to the "File" menu and select "Save as..." to give your project a new name. 
+2. Look at your code to draw each shape. Rewrite any shape code to get rid of redundancy.  Each shape should use a loop to make code as concise as possible. Code should still reproduce the same shapes with as few of blocks as possible. 
+3. If you didnt follow directions the first time do so not to make sure each shape corresponds with the correct button push.  See chart below.
+
+
+When this key is pressed...
+	Draw a ...
+	1
+	Square
+	2
+	Equilateral triangle
+	3
+	Diamond
+	4
+	Pentagon
+	5
+	Parallelogram ("leaning rectangle")
+	6
+	5-pointed star
+	
+
+1. Add code to your program to draw the extra shapes below.Give each a different color and line thickness, say the name while drawing, and use loops to keep your scripts as short as possible.
+
+
+When this key is pressed...
+	Draw a ...
+	7
+	Decagon (10-sided polygon)
+	8
+	Circle
+	
+
+
+
+
+
+Submit URL here:_________________________
