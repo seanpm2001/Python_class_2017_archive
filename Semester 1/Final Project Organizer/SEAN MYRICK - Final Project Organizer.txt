@@ -1,0 +1,285 @@
+﻿Final Project Organizer
+Part 0: Ideas Generation
+Brainstorm a list of as many project ideas as possible. List your top 3 here:
+1. Windows XP lite (joke emulator)
+2. Error messages
+3. Joke Programs
+Write a 2-3 sentence pitch for your top idea:
+i have created many windows joke emulators in the past. I have a large skill for making them look bad, but it is going to be more difficult on snap! because the paint program is more difficult to use than the scratch.mit.edu one, because it doesn’t have all the customizations. This program is going to be a complete joke, where you mess around and crash windows XP in numerous ways. It will contain a bunch of joke programs, and errors to find and mess around with. 
+
+
+
+
+Share your pitch with at least 3 people. What feedback did they give you?  
+1.
+
+
+2.
+
+
+3.
+
+
+
+
+
+
+
+
+
+
+Part 1: Screens
+Draw a sketch of each of the main “screens” in your project. Add a brief description of what the screen does and how it relates to the other screens. If you need more space, add extra pages.
+
+
+	
+
+	
+
+	
+
+	________________
+
+
+Part 2: Sprites
+What sprites will you need in your project? List the sprites, with well-chosen names. For each sprite, list the costumes the sprite will need, sounds it plays, and the set of behaviors that sprite should exhibit. Add more pages if necessary.
+Sprite name
+	Costumes
+	Sounds
+	Behaviors
+	Example - Barry
+	A polar bear walking 
+A polar bear walking (2)
+A polar bear jumping
+	Growl
+Roar
+	Walk left and right using arrow keys
+Jump on space bar
+Die if it touches a mouse
+Scare other animals and roar on “r” key
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Part 3: Custom Blocks
+Describe each custom block you will create in the project. Explain what the block does, what type of block it is (command, reporter, or predicate), list its parameters/inputs, and which sprites will call the block.
+Block Name
+	Description
+	Type 
+	Parameters (inputs)
+	Used By
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+________________
+
+
+Part 4: Variables
+List the variables you need to create, explain what the variable is used for, and whether it is a global or sprite-scoped variable. If it’s sprite-scoped, explain which sprite it belongs to. You do not need to list “script variables” that are created and used temporarily within a script.
+Variable
+	Scope (global or sprite)
+	Purpose
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+Part 5: Project Development Plan
+1. In the “Task” column, describe each of the programming tasks you must complete in order to build your project.
+2. In the “Estimate” column, estimate how many minutes you’ll need to complete each programming task.
+3. Once you’ve written all the tasks and estimates, use the “order” column to decide in what order you intend to complete the tasks. Think about which pieces need to come first so you can test your project as you build it.
+
+
+Order
+	Task
+	Estimate
