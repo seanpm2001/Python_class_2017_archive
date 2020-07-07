@@ -1,0 +1,175 @@
+﻿Pong Program Preparation Planning 
+We're ready to write our first game! Part of programming is breaking down a problem into smaller pieces that you can solve separately. You then combine these smaller pieces into larger components until you have the whole program put together.
+ 
+For the Pong game, use this planning worksheet to help design your code BEFORE you start writing. Read over all the requirements in the left column. Take a few minutes to think before filling out the rest of the worksheet. The first row is an example. 
+
+
+Game component
+	What's going on?
+	What owns the logic?
+	What triggers the change?
+	What could be tricky?
+	Pseudocode
+	Players can control paddles with required keys
+	Paddle moves up or down
+	Paddle sprite
+	Press up or down arrow 
+Press w or s keys
+	When paddle gets to the top or bottom it can't move anymore
+	Left paddle
+variable: left speed
+ 
+if sprite is hitting top edge of canvas OR hitting bottom edge of canvas then
+reverse paddle movement
+
+
+When up arrow is pressed
+If paddle is moving down
+stop paddle
+else
+change direction to up
+	Ball begins play at middle of field at start of game and after each point
+	 
+	 
+	 
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Ball bounces correctly off upper and lower edges of paddles
+	 
+	 
+	 
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Ball increases speed each time it bounces off a paddle
+	 
+	 
+	 
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Score a point for the opponent when the ball touches the left or right edge
+	 
+	 
+	 
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Game ends when one player reaches five points
+	 
+	 
+	 
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Winning player is shown when the game ends
+	 
+	 
+	 
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+	Players can begin a new game
+	 
+	 
+	 
+	 
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Adapted from GHHS Intro CS 2016
